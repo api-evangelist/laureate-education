@@ -1,0 +1,1 @@
+# Laureate Education GraphQL API
