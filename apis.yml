@@ -30,7 +30,7 @@ description: |
   websites (UVM, UNITEC in Mexico; UPC, UPN, Cibertec in Peru) but none
   expose machine-readable APIs documented from the parent.
 url: https://github.com/api-evangelist/laureate-education
-image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist/api-evangelist-logo.png
+image: https://kinlane-images.s3.amazonaws.com/apievangelist/api-evangelist/api-evangelist-logo.png
 created: '2026-05-22'
 modified: '2026-05-23'
 specificationVersion: '0.18'
