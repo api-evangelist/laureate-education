@@ -150,6 +150,8 @@ apis:
   - type: Portal
     url: https://www.cibertec.edu.pe/
 common:
+- type: DomainSecurity
+  url: security/laureate-education-domain-security.yml
 - type: Portal
   url: https://www.laureate.net/
 - type: Leadership
