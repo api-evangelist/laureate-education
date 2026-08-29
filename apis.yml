@@ -58,6 +58,17 @@ description: 'Laureate Education, Inc. is a for-profit higher-education network 
 
   '
 url: https://github.com/api-evangelist/laureate-education
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
