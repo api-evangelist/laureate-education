@@ -127,8 +127,6 @@ apis:
     url: https://www.laureate.net/contact/
   - type: Compliance
     url: https://www.laureate.net/ethics-and-compliance/
-  - url: graphql/laureate-education-graphql.md
-    type: GraphQL
 - name: Universidad Tecnológica de México (UNITEC)
   description: 'Private Mexican university with more than 59 years of academic
 
