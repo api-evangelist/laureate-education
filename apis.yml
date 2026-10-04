@@ -113,7 +113,6 @@ apis:
 
     '
   humanURL: https://www.laureate.net/
-  baseURL: https://www.laureate.net/
   tags:
   - Corporate Surface
   - Higher Education
