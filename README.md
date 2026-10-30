@@ -1,4 +1,4 @@
-# laureate-education
+# Laureate Education
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,108 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Profile for **Laureate Education, Inc.** in the API Evangelist network.
-Fortune F1000 (rank 666).
+Laureate Education, Inc. is a for-profit higher-education network founded in 1989 as Sylvan Learning Systems and renamed Laureate Education in May 2004. At its 2017 IPO peak the company operated more than 200 campuses across 28 countries serving over one million students; it became only the third B Corporation to go public when it listed on NASDAQ (ticker: LAUR) on 1 February 2017. Between 2018 and 2021 Laureate executed one of the largest sector-wide divestiture programs in the history of higher education, exiting Brazil (sold to Ânima Holding for ~$765M), the United States (Walden University sold to Adtalem for $1.48B), Australia / New Zealand (sold to Strategic Education), Chile (Universidad Andrés Bello transferred to Fundación Educación y Cultura in September 2020), Spain, Portugal, Morocco, Turkey, Malaysia, China, Italy, Cyprus and the United Kingdom — returning $1.29B to shareholders in October 2021. After the divestiture cycle Laureate continued as a pure-play Mexico / Peru operator with five remaining institutions and approximately 460,000 students. In May 2024 the company was acquired by an investor group led by the International Finance Corporation (IFC, a member of the World Bank Group) and Sterling Capital, taking Laureate Education private and delisting it from NASDAQ. The company is headquartered at 1000 Brickell Avenue, Suite 715, Miami, FL. Laureate does not publish a public developer API, OpenAPI specification, SDK, webhook surface, or status page. There is no Laureate Education GitHub organization. This profile therefore captures the corporate surface — institutions, divestiture history, leadership, investor status, news — rather than a programmable interface. The five remaining campus-network institutions each publish their own consumer-facing websites (UVM, UNITEC in Mexico; UPC, UPN, Cibertec in Peru) but none expose machine-readable APIs documented from the parent.
 
-Laureate is a for-profit higher-education holding company founded in 1989 as
-Sylvan Learning Systems and renamed Laureate Education in May 2004. Once the
-world's largest international university network — more than 200 campuses
-across 28 countries serving over one million students at its 2017 NASDAQ IPO
-(ticker `LAUR`) — Laureate executed a multi-year divestiture program between
-2018 and 2021, exiting roughly two dozen countries and returning $1.29 billion
-in cash to shareholders. In **May 2024 an investor group led by the
-International Finance Corporation (IFC) and Sterling Capital acquired Laureate
-Education, taking the company private** and delisting it from NASDAQ. The
-remaining operating footprint is a pure-play Mexico + Peru network of five
-institutions serving approximately 460,000 students from headquarters at
-1000 Brickell Ave, Miami.
+**Areas:** Education · Higher Education · For Profit Education · University Network · Mexico · Peru · Latin America · Private Equity · B Corporation · Take Private
 
-## Why this profile exists
+## Laureate Education on APIs.io
 
-Laureate Education **publishes no public developer API** — there is no
-OpenAPI specification, SDK, CLI, webhook surface, sandbox, status page,
-changelog, or GitHub organization. This repository therefore documents the
-**corporate surface** of the company (institutional network, leadership,
-divestiture history, take-private transaction) so the API Evangelist
-network has a complete entry for this Fortune-1000 (rank 666) education
-operator even though there is nothing programmable to profile.
+Everything profiled for Laureate Education is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/laureate-education/](https://apis.io/providers/laureate-education/)** — or go straight to one of the APIs or properties below.
 
-The detailed corporate history — including event-level timelines for the
-1999–2021 acquisition cycle, the 2018–2021 divestiture cycle, and the
-2024 IFC / Sterling take-private — lives inline in `apis.yml` under the
-`x-corporate-history` and `x-divestiture-summary` extensions.
+### APIs (2)
 
-## Current operating footprint
+- [Laureate Education Corporate Surface](https://apis.io/apis/laureate-education/laureate-education-corporate-surface/) — Laureate Education does not expose a public developer API, OpenAPI specification, SDK, CLI, webhook, GraphQL endpoint, status page or changelog. This entry…
+- [Universidad Tecnológica de México (UNITEC)](https://apis.io/apis/laureate-education/universidad-tecnológica-de-méxico-unitec/) — Private Mexican university with more than 59 years of academic operations, 13 physical campuses across CDMX, State of Mexico, Guadalajara, León, Querétaro,…
 
-| Country | Institution | Notes |
-|---|---|---|
-| Mexico | Universidad del Valle de México (UVM) | 22+ campuses, 180+ programs, founded 1960 |
-| Mexico | Universidad Tecnológica de México (UNITEC) | 13 campuses, QS 5-star (2025), FIMPES Lisa y Llana |
-| Peru | Universidad Peruana de Ciencias Aplicadas (UPC) | First Peruvian university with QS 5-star; WSCUC accredited |
-| Peru | Universidad Privada del Norte (UPN) | Multi-campus regional network |
-| Peru | Cibertec | Technical / professional institute |
+### Published properties
 
-Total: **~460,000 students across 50+ campuses** (250,000+ in Mexico
-across 30+ campuses; 210,000+ in Peru across 20 campuses).
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Divestiture summary (2016–2021)
+#### GraphQL (1)
 
-Geographies exited during the strategic-review cycle:
+GraphQL schemas.
 
-- **2016** — Switzerland (Glion, Les Roches → Eurazeo, $384.9M)
-- **2018** — Morocco, Italy, Malaysia, China, Cyprus, Kendall College (US)
-- **2019** — Turkey (Istanbul Bilgi), Spain (UE Madrid/Valencia/Canarias),
-  Portugal (Universidade Europeia, IPAM), University of St Augustine for
-  Health Sciences (US), Santa Fe University of Art and Design (US)
-- **2020** — Australia + New Zealand → Strategic Education; Chile
-  (Universidad Andrés Bello + Chilean assets → Fundación Educación y
-  Cultura, 11 Sept 2020); UK wind-down (Liverpool, Roehampton)
-- **2021** — Brazil (11 institutions → Ânima Holding, ~$765M, May 2021);
-  Walden University → Adtalem ($1.48B, August 2021)
-- **October 2021** — $1.29 billion cash distribution to shareholders
+- [Moved to /providers/laureate-education/](https://apis.io/graphqls/laureate-education/laureate-education-graphql/)
 
-## Ownership
+#### Security (1)
 
-- **1989–2007** — Sylvan / Laureate; public
-- **2007–2017** — Private (investor group led by Doug Becker)
-- **2017–2024** — Public on NASDAQ as `LAUR` (B Corporation)
-- **May 2024–present** — Private; owned by investor group led by IFC and
-  Sterling Capital
+Authentication, trust centre, and vulnerability disclosure.
 
-## Leadership (current)
+- [Laureate Education Domain Security](https://apis.io/security/laureate-education/laureate-education-domain-security/)
 
-- Eilif Serck-Hanssen — President & CEO
-- Marcelo Cardoso — EVP & COO
-- Rick Buskirk — SVP & CFO
-- Leslie Brush — SVP, Chief Legal Officer & Secretary
-- Martin N. Fienkeng — CIO & CISO
-- Alejandro Gallo — CEO, Laureate Mexico
-- Álvaro Ramos — CEO, Laureate Peru
+## Where to find this API
 
-## Repository contents
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-| File | Purpose |
+- [Website](https://laureate.net)
+- [Compliance](https://www.laureate.net/ethics-and-compliance/)
+
+## API Evangelist rating
+
+**Kin Score 8.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
 |---|---|
-| `apis.yml` | API Evangelist index — corporate surface, member institutions, full divestiture timeline, leadership references |
-| `README.md` | This file |
+| Discoverability | 58.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 7.9 |
 
-No `openapi/`, `asyncapi/`, `json-schema/`, `capabilities/`, `examples/`,
-`rules/`, `plans/`, `rate-limits/`, or `finops/` artifacts are present
-because Laureate exposes no public API surface that would back them. The
-pipeline correctly skipped artifact generation rather than produce empty
-placeholders.
+**Agent readiness 0.0** — human-only
 
-## Notable absences
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-- No public REST / GraphQL / webhook API
-- No OpenAPI or AsyncAPI specification
-- No SDK, CLI, or sandbox
-- No GitHub organization
-- No status page, changelog, or release notes
-- No public developer pricing (consumer tuition is institution-by-institution)
+**Regulatory alignment 10.8** — Education & Research
 
-## Network entry
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/laureate-education/](https://apis.io/providers/laureate-education/).
 
-- **GitHub:** <https://github.com/api-evangelist/laureate-education>
-- **x-type:** company
-- **Master registry:** `api-evangelist-network/apis.yml` (`x-profiled: 2026-05`)
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Laureate Education: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/laureate-education/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
